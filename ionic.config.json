@@ -1,0 +1,8 @@
+{
+  "name": "remember",
+  "app_id": "8466c591",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
